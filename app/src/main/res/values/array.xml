@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Utilities</item>
+        <item>Housing</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Others</item>
+    </string-array>
+</resources>
